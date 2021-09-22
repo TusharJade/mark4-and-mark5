@@ -131,15 +131,3 @@ body {
 .test {
     margin-top: 1.4rem;
   }
-
-.newcontainer {
-    padding: 1rem;
-    text-align: center;
-    margin: auto;
-}
-
-.para {
-    max-width:600px;
-    margin: auto;
-}
-
