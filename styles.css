@@ -104,5 +104,20 @@ body {
   padding: 1rem;
 }
 
+.footer {
+    background-color: var(--primary-color);
+    padding: 2rem 1rem;
+    color: white;
+    border-bottom-right-radius: 1rem;
+    text-align: center;
+}
 
-
+.footer .link {
+    color:#C7D2FE
+    ;
+    font-weight: bold;
+    font-size:large;
+}
+.footer ul {
+    padding-inline-start: 0px;
+}
