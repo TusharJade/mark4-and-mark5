@@ -82,7 +82,7 @@ body {
 }
 
 .my .my-image {
-    max-width: 300px;
+    max-width: 350px;
     margin: auto;
     display: block;
 }
@@ -135,10 +135,11 @@ body {
 .newcontainer {
     padding: 1rem;
     text-align: center;
+    margin: auto;
 }
 
 .para {
-    max-width: 600px;
+    max-width:600px;
     margin: auto;
 }
 
