@@ -52,7 +52,7 @@ body {
 
 .navigation {
     background-color: var(--primary-color);
-    padding: 2rem;
+    padding: 1rem;
     color: white;
     border-bottom-left-radius: 1rem;
     
