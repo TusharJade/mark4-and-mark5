@@ -2,6 +2,7 @@
 
 :root {
     --primary-color:#3B82F6;
+    --grey:#6B7280;
 }
 
 hr {
@@ -71,4 +72,29 @@ body {
 .navigation .active-link {
      font-weight: bold;
 }
+
+.my {
+    padding: 2rem;
+    text-align: center;
+}
+
+.my .my-image {
+    max-width: 400px;
+    margin: auto;
+    display: block;
+}
+
+.my .my-heading {
+   font-size: xx-large;
+   color: var(--grey);
+   padding-top: 1rem;
+}
+
+.my .span-tag {
+   color:  var(--primary-color);
+}
+
+
+
+
 
