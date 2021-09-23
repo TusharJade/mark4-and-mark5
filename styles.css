@@ -132,9 +132,8 @@ body {
     margin-top: 1.4rem;
   }
 
-  .center-containertwo {
+  .newcontainer {
     max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
+    padding: 1rem 1rem;
 }
-
