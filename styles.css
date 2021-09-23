@@ -131,3 +131,8 @@ body {
 .test {
     margin-top: 1.4rem;
   }
+
+  .margin {
+      margin-left: auto;
+      margin-right: auto;
+  }
