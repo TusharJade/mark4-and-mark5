@@ -133,8 +133,7 @@ body {
   }
 
   .newcontainer {
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
     padding: 1rem 1rem;
-    margin-right: 1rem;
-}
+  }
