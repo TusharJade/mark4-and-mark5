@@ -125,7 +125,7 @@ body {
 }
 
 .newerror {
-    padding-bottom: 1rem;
+    padding-bottom: 1.5rem;
 }
 
 .test {
@@ -137,3 +137,5 @@ body {
     margin: auto;
     padding: 1rem 1rem;
   }
+
+ 
